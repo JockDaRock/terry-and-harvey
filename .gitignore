@@ -1,0 +1,11 @@
+terraform.tfstate
+terraform.tfstate.backup
+theplan
+theplan.json
+testyMcTestFace
+kubeconfig
+.terraform/
+test/
+original/
+k3s/
+.terraform.lock.hcl
