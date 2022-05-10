@@ -6,6 +6,12 @@ testyMcTestFace
 kubeconfig
 .terraform/
 test/
+temp/
 original/
+original_resources/
 k3s/
+commands.sh
 .terraform.lock.hcl
+clusternet
+vmcreate
+vmdestroy
